@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets
+Content/M5VFXVOL2
+Content/InfinityBladeEffects
+Content/Mannequin
+Content/Models
+Content/Sprites
+Content/SwordTrialAsset
+Content/Effects
+Content/StarterContent
